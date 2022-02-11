@@ -26,3 +26,5 @@
 ![image](https://user-images.githubusercontent.com/76790667/153618953-ae9fe205-e560-4071-942e-5fb37c837d4b.png)
 ![image](https://user-images.githubusercontent.com/76790667/153618986-3256c6db-e4b4-4c41-8487-e8e0b27ec6f9.png)
 Created a React Application Using React App and calling API in it . 
+![image](https://user-images.githubusercontent.com/76790667/153619893-2860f9b5-0c1e-4a11-8ee7-d80b559be070.png)
+![image](https://user-images.githubusercontent.com/76790667/153619962-9c475479-95fd-44ae-abb5-f6cf58d93112.png)
